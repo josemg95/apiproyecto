@@ -1,0 +1,6 @@
+[22-Oct-2024 22:54:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\xampp\htdocs\apiproyecto\routes\routes.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apiproyecto\controllers\routes.controller.php(9): include()
+#1 C:\xampp\htdocs\apiproyecto\index.php(12): RoutesController->index()
+#2 {main}
+  thrown in C:\xampp\htdocs\apiproyecto\routes\routes.php on line 15
