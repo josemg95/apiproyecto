@@ -1,11 +1,12 @@
 <?php
 
-$json = array(
+ini_set('display_errors', 1);
+ini_set("log_errors", 1);
+ini_set("error_log", "C:/xampp\htdocs\apiproyecto/error_log");
 
-    'status' => 200,
-    'result' => 'Exito'
 
-);
+//Requerimiento de la ruta princupal
+require_once "controllers/routes.controller.php";
 
-echo json_encode($json);
-return;
+$index = new RoutesController();
+$index -> index();
