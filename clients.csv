@@ -1,0 +1,8 @@
+﻿id_client;name_client;email_client;password_client;token_client;token_exp_client;date_created_client;date_updated_client
+1;Juan Pérez;juan.perez@email.com;;;;2048-10-20;2048-10-20 22:59:00
+2;Ana García;ana.garcia@email.com;;;;2048-10-20;2048-10-20 22:59:00
+3;Carlos Rodríguez;carlos.rodriguez@email.com;;;;2048-10-20;2048-10-20 22:59:00
+4;Laura Martínez;laura.martinez@email.com;;;;2048-10-20;2048-10-20 22:59:00
+5;María López;maria.lopez@email.com;;;;2048-10-20;2048-10-20 22:59:00
+6;Luis Torres;luis.torres@email.com;;;;2048-10-20;2048-10-20 22:59:00
+7;Marta González;marta.gonzalez@email.com;;;;2048-10-20;2048-10-20 22:59:00
