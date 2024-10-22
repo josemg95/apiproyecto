@@ -1,3 +1,11 @@
 <?php
 
-echo "Conección Exitosa a la API";
+$json = array(
+
+    'status' => 200,
+    'result' => 'Exito'
+
+);
+
+echo json_encode($json);
+return;
