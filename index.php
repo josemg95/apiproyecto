@@ -6,6 +6,7 @@ ini_set("error_log", "C:/xampp\htdocs\apiproyecto/error_log");
 
 
 //Requerimiento de la ruta princupal
+
 require_once "controllers/routes.controller.php";
 
 $index = new RoutesController();
