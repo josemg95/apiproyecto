@@ -7,7 +7,7 @@ class Connection{
 
         $infoDB = array(
 
-            "database" => "apirest_project",
+            "database" => "apirest_project",  // en mi base de datos la cree como apirest_proyect
             "user" => "root",
             "pass" => ""
 
