@@ -31,7 +31,7 @@ class Connection{
             
             );
             $link->exec("set names utf8");
-        }catch(PDOExeption $e){
+        }catch(PDOException $e){
 
             die("Error: ".$e->getMessage());
         }
